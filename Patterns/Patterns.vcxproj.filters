@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Creational Pattern">
+      <UniqueIdentifier>{e1a97cad-1cc1-4811-b641-2bc58b7646fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Creational Pattern">
+      <UniqueIdentifier>{4ae48139-5f58-4bdb-86f0-4d4745cbb303}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Structural Pattern">
+      <UniqueIdentifier>{e3065f48-e4b9-4b31-aa2f-705f4c8b458a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Structural Pattern">
+      <UniqueIdentifier>{3a5a2a75-f7f5-4005-9a7c-c24506f79b6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Test">
+      <UniqueIdentifier>{6b0a47db-1e76-40e8-970f-8abd2f26049d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Behavioral Pattern">
+      <UniqueIdentifier>{7b36df07-64e5-4c4c-a594-0d7e010306fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Behavioral Pattern">
+      <UniqueIdentifier>{77c10e7e-8a54-4b4e-8d14-c064a8172192}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryMethod.cpp">
+      <Filter>源文件\Creational Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="Prototype.cpp">
+      <Filter>源文件\Creational Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="myClass.cpp">
+      <Filter>头文件\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Composite.cpp">
+      <Filter>源文件\Structural Pattern</Filter>
+    </ClCompile>
+    <ClCompile Include="AVLTree.cpp">
+      <Filter>头文件\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Iterator.cpp">
+      <Filter>源文件\Behavioral Pattern</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>头文件\Creational Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Builder.h">
+      <Filter>头文件\Creational Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="FactoryMethod.h">
+      <Filter>头文件\Creational Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototype.h">
+      <Filter>头文件\Creational Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>头文件\Creational Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Adapter.h">
+      <Filter>头文件\Structural Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Bridge.h">
+      <Filter>头文件\Structural Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="myClass.h">
+      <Filter>头文件\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="myClass_imp.h">
+      <Filter>头文件\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Composite.h">
+      <Filter>头文件\Structural Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Decorator.h">
+      <Filter>头文件\Structural Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Facade.h">
+      <Filter>头文件\Structural Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Flyweight.h">
+      <Filter>头文件\Structural Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Proxy.h">
+      <Filter>头文件\Structural Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="ChainOfResponsibility.h">
+      <Filter>头文件\Behavioral Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="AVLTree.h">
+      <Filter>头文件\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>头文件\Behavioral Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Interpreter.h">
+      <Filter>头文件\Behavioral Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Iterator.h">
+      <Filter>头文件\Behavioral Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="Mediator.h">
+      <Filter>头文件\Behavioral Pattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>
