@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
-#include "Iterator.h"
+
+#include "Mediator.h"
 
 int main()
 {
-	ITest();
-	
+	MediatorTest();
+
 	return 0;
 }

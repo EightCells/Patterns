@@ -132,6 +132,7 @@
     <ClCompile Include="FactoryMethod.cpp" />
     <ClCompile Include="Iterator.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Mediator.cpp" />
     <ClCompile Include="myClass.cpp" />
     <ClCompile Include="Prototype.cpp" />
     <ClCompile Include="SimpleList.cpp" />

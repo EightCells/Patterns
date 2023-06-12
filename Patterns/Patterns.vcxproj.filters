@@ -60,6 +60,9 @@
     <ClCompile Include="Iterator.cpp">
       <Filter>源文件\Behavioral Pattern</Filter>
     </ClCompile>
+    <ClCompile Include="Mediator.cpp">
+      <Filter>源文件\Behavioral Pattern</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AbstractFactory.h">
