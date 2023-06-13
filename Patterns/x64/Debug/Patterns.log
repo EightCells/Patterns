@@ -1,4 +1,8 @@
-﻿  Memeno.cpp
-  main.cpp
+﻿  main.cpp
+  Observer.cpp
+C:\Users\WXH\Desktop\Patterns\Patterns\Observer.h(38,1): error C2027: 使用了未定义类型“ChangeManager”
+C:\Users\WXH\Desktop\Patterns\Patterns\Observer.h(11,7): message : 参见“ChangeManager”的声明
+C:\Users\WXH\Desktop\Patterns\Patterns\Observer.h(42,1): error C2027: 使用了未定义类型“ChangeManager”
+C:\Users\WXH\Desktop\Patterns\Patterns\Observer.h(11,7): message : 参见“ChangeManager”的声明
+C:\Users\WXH\Desktop\Patterns\Patterns\Observer.cpp(25,2): error C2059: 语法错误:“}”
   正在生成代码...
-  Patterns.vcxproj -> C:\Users\WXH\Desktop\Patterns\x64\Debug\Patterns.exe
