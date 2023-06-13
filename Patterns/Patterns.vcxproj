@@ -133,6 +133,7 @@
     <ClCompile Include="Iterator.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Mediator.cpp" />
+    <ClCompile Include="Memeno.cpp" />
     <ClCompile Include="myClass.cpp" />
     <ClCompile Include="Prototype.cpp" />
     <ClCompile Include="SimpleList.cpp" />
@@ -153,6 +154,7 @@
     <ClInclude Include="Interpreter.h" />
     <ClInclude Include="Iterator.h" />
     <ClInclude Include="Mediator.h" />
+    <ClInclude Include="Memeno.h" />
     <ClInclude Include="myClass.h" />
     <ClInclude Include="myClass_imp.h" />
     <ClInclude Include="Prototype.h" />

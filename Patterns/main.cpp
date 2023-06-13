@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-#include "Mediator.h"
+#include "Memeno.h"
 
 int main()
 {
-	MediatorTest();
+	MemenoTest();
 
 	return 0;
 }
