@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-#include "Memeno.h"
+#include "Observer.h"
 
 int main()
 {
-	MemenoTest();
+	ObserverTest();
 
 	return 0;
 }
