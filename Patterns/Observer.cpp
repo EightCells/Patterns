@@ -102,7 +102,7 @@ void ObserverTest()
 	s.state2 = 15;
 	Observer* ob2 = new ConcreteObserver(STATE::state1, s);
 
-	//ob1关心sub1全部，ob2关心sub2的state1
+	//ob1关心sub1全部，ob2关心sub1、sub2的state1
 	sub1->Attach(ob1);
 	sub1->Attach(ob2);
 

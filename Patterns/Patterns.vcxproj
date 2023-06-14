@@ -163,6 +163,7 @@
     <ClInclude Include="Proxy.h" />
     <ClInclude Include="SimpleList.h" />
     <ClInclude Include="Singleton.h" />
+    <ClInclude Include="State.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />

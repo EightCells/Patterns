@@ -140,6 +140,9 @@
     <ClInclude Include="Observer.h">
       <Filter>头文件\Behavioral Pattern</Filter>
     </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>头文件\Behavioral Pattern</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />

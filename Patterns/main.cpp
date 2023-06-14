@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-#include "Observer.h"
+#include "State.h"
 
 int main()
 {
-	ObserverTest();
+	StateTest();
 
 	return 0;
 }
