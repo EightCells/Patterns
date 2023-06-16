@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-#include "Strategy.h"
+#include "TemplateMethod.h"
 
 int main()
 {
-	StrategyTest();
+	TemplateMethodTest();
 
 	return 0;
 }

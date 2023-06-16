@@ -146,6 +146,9 @@
     <ClInclude Include="Strategy.h">
       <Filter>头文件\Behavioral Pattern</Filter>
     </ClInclude>
+    <ClInclude Include="TemplateMethod.h">
+      <Filter>头文件\Behavioral Pattern</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
