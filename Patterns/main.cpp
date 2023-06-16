@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-#include "State.h"
+#include "Strategy.h"
 
 int main()
 {
-	StateTest();
+	StrategyTest();
 
 	return 0;
 }

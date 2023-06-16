@@ -164,6 +164,7 @@
     <ClInclude Include="SimpleList.h" />
     <ClInclude Include="Singleton.h" />
     <ClInclude Include="State.h" />
+    <ClInclude Include="Strategy.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
