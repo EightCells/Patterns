@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-#include "TemplateMethod.h"
+#include "Visitor.h"
 
 int main()
 {
-	TemplateMethodTest();
+	VistorTest();
 
 	return 0;
 }
